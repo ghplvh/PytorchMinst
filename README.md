@@ -11,4 +11,5 @@ python app.py
 ![](/static/mnist.gif)
 
 > 前端逻辑借鉴自项目 http://112.126.101.188:3335/
+
 > 前端使用了 canvas 绘图。
